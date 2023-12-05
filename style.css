@@ -1,0 +1,30 @@
+* {
+    background-color: #282c34;
+    font-family: sans-serif;
+    color: grey;
+}
+
+td {
+    width: 180px;
+    height: 180px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 80px;
+    cursor: pointer;
+}
+
+table {
+    margin-bottom: 10px;
+}
+
+button {
+    border: 1px solid grey;
+    border-radius: 10px;
+    font-size: 40px;
+}
+
+button:hover{
+    cursor: pointer;
+    opacity: 0.7;
+}
